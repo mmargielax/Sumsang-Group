@@ -1,2 +1,2 @@
 # Sumsang-Group
-Test
+this repository tell about our friend group
